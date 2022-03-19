@@ -31,6 +31,10 @@ Milana Frenkel-Morgenstern - milana.morgenstern@biu.ac.il <br />
 - Readcount tables used for differential gene expression analysis can be downloaded from the following links:
 
   - [AL_Vs_HT](https://www.dropbox.com/sh/w66xa6lx4dvcc9o/AACirMW8vAba6g7JohYA1U-fa?dl=0)
+  - [AL_Vs_OA](https://www.dropbox.com/sh/yjeonmdxey6c3vk/AAAZ5W-04s_zZyC_J5cJ1T54a?dl=0)
+  - [OA_Vs_HT](https://www.dropbox.com/sh/6fffi3qz8gnh2k8/AADMRNnxoAmuxiIV7l8crJHea?dl=0)
+  - [RA_Vs_HT](https://www.dropbox.com/sh/p22wfpvotoy4596/AADeLqBkwo8XHsHAyapi5vC-a?dl=0)
+  - [RA_Vs_OA](https://www.dropbox.com/sh/6fl1qj74rloo5zw/AACxuwHBjAWDwrbim1RAKw2ba?dl=0)
 
 </br>
 
