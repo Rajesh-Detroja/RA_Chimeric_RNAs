@@ -16,8 +16,12 @@ Milana Frenkel-Morgenstern - milana.morgenstern@biu.ac.il <br />
        
 
 #### - Identification of chimeric RNAs from RNA-seq data
+- Chimeric RNAs using our in-house reference-based method [ChiTaH](https://github.com/Rajesh-Detroja/ChiTaH)
+
+- Previously demonstrated to be the most efficient [reference-based tool](https://academic.oup.com/nargab/article/3/4/lqab112/6441772?login=true) for chimeric RNAs detection
 
 #### - Differential gene expression analysis
+- Differential gene expression analysis of cohorts was performed using DESeq2 
 
 #### - Annotation and enrichment analysis of the parental genes of recurrent chimeric RNAs in RA
 
