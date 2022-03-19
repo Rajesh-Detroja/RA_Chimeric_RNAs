@@ -40,4 +40,17 @@ Milana Frenkel-Morgenstern - milana.morgenstern@biu.ac.il <br />
 
 #### - Annotation and enrichment analysis of the parental genes of recurrent chimeric RNAs in RA
 
+- Gene ontology, pathway, and gene enrichment analysis of the parental genes of re-current chimeric RNAs were performed using the online [Metascape](https://metascape.org/gp/index.html#/main/step1) server
+
+</br>
+
 #### - Classification of recurrent chimeric RNAs into coding and non-coding RNAs
+
+- Functional classification of recurrent chimeric RNAs was performed using following tools:
+
+  - [CPAT](https://academic.oup.com/nar/article/41/6/e74/2902455)
+  - [CNIT](https://academic.oup.com/nar/article/47/W1/W516/5506859)
+  - [LncFinder](https://academic.oup.com/bib/article/20/6/2009/5062950)
+
+- Commonly predicted coding and non-coding chimeric RNAs was calculated using [Venn Diagram ](https://bioinformatics.psb.ugent.be/webtools/Venn/)
+  
