@@ -10,7 +10,9 @@ Milana Frenkel-Morgenstern - milana.morgenstern@biu.ac.il <br />
 
 - We also downloaded RNA-seq data from tissue samples of 122 healthy human individu-als representing 32 different tissues from EBI ArrayExpress (accession [E-MTAB-2836](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2836/))
 
-- All of the raw sequencing data were initially subjected to quality control analysis using [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and an in-house [bash script](https://github.com/Rajesh-Detroja/RA_Chimeric_RNAs/blob/main/fastq_stats.sh).
+- All of the raw sequencing data were initially subjected to quality control analysis using [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and an in-house [bash script](https://github.com/Rajesh-Detroja/RA_Chimeric_RNAs/blob/main/fastq_stats.sh)
+
+- Raw sequencing data was trimmed using the [cutadapt](https://cutadapt.readthedocs.io/en/stable/) tool
        
 
 #### - Identification of chimeric RNAs from RNA-seq data
