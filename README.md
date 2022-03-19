@@ -28,7 +28,9 @@ Milana Frenkel-Morgenstern - milana.morgenstern@biu.ac.il <br />
 #### - Differential gene expression analysis
 - Differential gene expression analysis of cohorts was performed using [DESeq2](https://github.com/Rajesh-Detroja/RA_Chimeric_RNAs/blob/main/DESeq2.R)
 
-- Readcount tables used for each differential gene expression analysis is provided in this github directory
+- Readcount tables used for differential gene expression analysis can be downloaded from the following links:
+
+  - [AL_Vs_HT](https://www.dropbox.com/sh/w66xa6lx4dvcc9o/AACirMW8vAba6g7JohYA1U-fa?dl=0)
 
 </br>
 
